@@ -12,8 +12,9 @@ Watch this spaces for links to covid-19 related data sources.
 
 ### South Africa
 
-####  https://github.com/dsfsi/covid19za
 * Reference data-sets :  maintained and hosted by Data Science for Social Impact research group, led by Dr. Vukosi Marivate, at the University of Pretoria - > https://github.com/dsfsi/covid19za
+
+* Visualisation Dashboard : https://datastudio.google.com/u/0/reporting/1b60bdc7-bec7-44c9-ba29-be0e043d8534/page/hrUIB
 
 ### Epidemiological Datasets
 * Epidemiological data from the COVID-19 outbreak, real-time case information : https://github.com/beoutbreakprepared/nCoV2019 
