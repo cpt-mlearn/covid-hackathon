@@ -10,6 +10,11 @@ By taking part in the discussion, either via the Slack Channel or Zoom Meetings.
 ## Data Resources
 Watch this spaces for links to covid-19 related data sources.
 
+### South Africa
+
+####  https://github.com/dsfsi/covid19za
+* Reference data-sets :  maintained and hosted by Data Science for Social Impact research group, led by Dr. Vukosi Marivate, at the University of Pretoria - > https://github.com/dsfsi/covid19za
+
 ### Epidemiological Datasets
 * Epidemiological data from the COVID-19 outbreak, real-time case information : https://github.com/beoutbreakprepared/nCoV2019 
 
