@@ -2,13 +2,13 @@
 A community driven codebase
 
 ## What you will find here
-str
+Community driven solutions/projects to problems created by the covid-19 pandemic. 
 
 ## How you can contribute
-str
+By taking part in the discussion, either via the Slack Channel or Zoom Meetings. You can find the relevant links below.
 
 ## Data Resources
-str
+Watch this spaces for links to covid-19 related data sources.
 
 ## Slack Channel
 Please join the community discussion in our dedicated slack channel :)
