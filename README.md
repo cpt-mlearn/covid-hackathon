@@ -8,7 +8,7 @@ Community driven solutions/projects to problems created by the covid-19 pandemic
 By taking part in the discussion, either via the Slack Channel or Zoom Meetings. You can find the relevant links below.
 
 ## Data Resources
-Watch this spaces for links to covid-19 related data sources.
+Find the links below for covid-19 related data sources, you can join one of the initiaves or apply to our local context.
 
 ### South Africa
 
@@ -27,7 +27,8 @@ Watch this spaces for links to covid-19 related data sources.
 
 * Kaggle Tweets:  https://www.kaggle.com/smid80/coronavirus-covid19-tweets
 
-
+### Global dashboards
+* https://covid19dashboards.com/
 
 
 
