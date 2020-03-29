@@ -30,6 +30,8 @@ Find the links below for covid-19 related data sources, you can join one of the 
 ### Global dashboards
 * https://covid19dashboards.com/
 
+### Interesting ideas
+* Screening tool based on voice captured from the mobile phone : https://www.breatheforscience.com/our-mission
 
 
 ## Slack Channel
