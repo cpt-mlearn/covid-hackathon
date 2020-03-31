@@ -30,6 +30,9 @@ Find the links below for covid-19 related data sources, you can join one of the 
 ### Global dashboards
 * https://covid19dashboards.com/
 
+### X-Ray Datasets
+* https://github.com/ieee8023/covid-chestxray-dataset - Tutorial available in here : https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
+
 ### Interesting ideas for ML applications
 * Screening tool based on voice captured from the mobile phone : https://www.breatheforscience.com/our-mission
 * Screening tool based on cough sounds captured from the phone https://www.detect-now.org/
