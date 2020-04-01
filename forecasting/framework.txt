@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------------------------
+------------------------------------- FORECASTING FRAMEWORK ---------------------------------------------
+---------------------------------------------------------------------------------------------------------
+The goal of this framework is to set forth a methodoly for you, the user, to work within.
+
+Suppose that you have a metric x. Suppose further that x changes with time.
+We shall donate the value of x, at time t, as x(t).
+
+If we were to know future values of x, then we could prepare for that event!
+For example if we knew that corona was coming we could have prepared!
+
+We say that x(t) is a time-series, because it is a function of time.
+
+All submissions/ideas/contributions should ideally be models that can predict future values of x
+i.e. x1,x2,x3,x4,....
+
+We measure *accuracy of forecasts* by measuring how far off it was from actual values.
